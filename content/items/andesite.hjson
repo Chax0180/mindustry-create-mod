@@ -1,0 +1,11 @@
+name: Andesite
+description: Igneous rock. Unique in its ability to combine with metals to form versatile alloys.
+hardness: 1
+alwaysUnlocked: true
+color: a5a797
+research: core-depot
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
