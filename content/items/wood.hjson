@@ -1,0 +1,13 @@
+name: Wood
+description: A dense plank of fibrous plant matter.
+hardness: 0.5
+alwaysUnlocked: true
+color: 966f3f
+research: [
+core-vault
+]
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:1
+charge:0
+radioactivity:0
