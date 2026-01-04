@@ -5,7 +5,7 @@ type: GenericCrafter
   conductivePower:true
   itemCapacity: 0
   consumes:{
-power:0.01666
+power:0.1
 }
 description: Conducts power using kinetic energy.
   
