@@ -3,9 +3,10 @@ type: GenericCrafter
   consumesPower:true
   connectedPower:false
   conductivePower:true
-  consumes:[
+  itemCapacity: 0
+  consumes:{
 power:0.01666
-]
+}
 description: Conducts power using kinetic energy.
   
 destructible:true
