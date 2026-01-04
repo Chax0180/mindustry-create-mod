@@ -1,4 +1,4 @@
-type: PowerBlock
+type: GenericCrafter
   hasPower:true
   consumesPower:false
   connectedPower:false
