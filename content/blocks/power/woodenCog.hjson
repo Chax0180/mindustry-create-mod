@@ -1,3 +1,4 @@
+name: Wooden Cog
 type: GenericCrafter
   hasPower:true
   consumesPower:true
@@ -5,9 +6,9 @@ type: GenericCrafter
   conductivePower:true
   itemCapacity: 0
   consumes:{
-power:0.1
+power:0.05
 }
-description: Conducts power using kinetic energy.
+description: Conducts power in the form of kinetic energy.
   
 destructible:true
   solid:true
