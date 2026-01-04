@@ -16,5 +16,6 @@ health:80
   wood:2
   andesite:1
   ]
+research:core-depot
 
 category: power
