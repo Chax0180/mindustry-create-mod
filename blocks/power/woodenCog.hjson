@@ -3,6 +3,7 @@ type: PowerBlock
   consumesPower:false
   connectedPower:false
   conductivePower:true
+description: Conducts power using kinetic energy.
   
 destructible:true
   solid:true
