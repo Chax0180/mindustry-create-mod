@@ -17,9 +17,8 @@ health:80
   andesite/1
   ]
 research:core-depot
-
 category: power
-}
+
 drawer: {
   type: DrawMulti
   drawers: [
