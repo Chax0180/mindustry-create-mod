@@ -13,8 +13,8 @@ destructible:true
 health:80
   ambientSound:cogs
   requirements:[
-  wood:2
-  andesite:1
+  wood/2
+  andesite/1
   ]
 research:core-depot
 
