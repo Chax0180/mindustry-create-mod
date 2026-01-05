@@ -1,0 +1,29 @@
+name: Steam Piston
+type: consumeGenerator
+  hasPower:true
+  liquidCapacity: 12
+  itemCapacity: 0
+  heatRequirement: 4
+  maxEfficiency: 2
+  size: 2
+  consumes:{
+liquids: [
+steam/0.05
+]
+}
+
+description: Turns steam into kinetic energy.
+  
+destructible:true
+  solid:true
+  underBullets:true
+  breakable:true
+  
+health:100
+  ambientSound:steam
+  requirements:[
+  copper/4
+  andesite-alloy/2
+  ]
+research:boiler
+category: power
