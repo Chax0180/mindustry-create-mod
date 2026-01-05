@@ -1,0 +1,28 @@
+name: Boiler
+type: HeatCrafter
+  hasPower:true
+  itemCapacity: 10
+  heatRequirement: 4
+  maxEfficiency: 2
+  consumes:{
+water/0.2
+}
+outputLiquid:{
+steam/0.2
+}
+
+description: Turns water into steam using heat.
+  
+destructible:true
+  solid:true
+  underBullets:true
+  breakable:true
+  
+health:400
+  ambientSound:steam
+  requirements:[
+  copper/
+  andesite/1
+  ]
+research:core-depot
+category: power
