@@ -1,6 +1,5 @@
 name: Boiler
 type: HeatCrafter
-  hasPower:true
   itemCapacity: 10
   heatRequirement: 4
   maxEfficiency: 2
