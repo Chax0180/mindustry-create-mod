@@ -1,11 +1,9 @@
 name: Steam Piston
 type: consumeGenerator
   hasPower:true
-  liquidCapacity: 12
+  liquidCapacity: 3
   itemCapacity: 0
-  heatRequirement: 4
-  maxEfficiency: 2
-  size: 2
+  size: 1
   consumes:{
 liquids: [
 steam/0.05
@@ -21,6 +19,7 @@ destructible:true
   
 health:100
   ambientSound:steamEngine
+  abientSoundVolume: 0.8
   requirements:[
   copper/4
   andesite-alloy/2
