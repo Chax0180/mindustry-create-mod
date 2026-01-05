@@ -1,0 +1,18 @@
+name: Steam
+description: Water in the form of a gas.
+explosiveness: 3
+temperature: 3
+coolant: false
+gas: true
+color: ffffff00
+flammability: 0
+gasColor: ffffff00
+barColor: ffffff00
+incinerable: false
+lightColor: ffffff00
+research: {
+  parent: copper
+  objectives: [ 
+    boiler
+  ]
+}
