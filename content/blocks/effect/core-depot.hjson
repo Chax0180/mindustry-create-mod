@@ -2,7 +2,7 @@ type: CoreBlock
 name: Core: Depot
 description: Core of the base. Stores a large amount of resources. Self replicating.
 requirements: [
-andesite-alloy/2000
+andesiteAlloy/2000
 kineticCopper/2000
 glass/500
 ]
