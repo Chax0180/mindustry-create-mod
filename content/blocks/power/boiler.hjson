@@ -21,8 +21,7 @@ destructible:true
 health:400
   ambientSound:steam
   requirements:[
-  copper/
-  andesite/1
+  copper/48
   ]
 research:core-depot
 category: power
