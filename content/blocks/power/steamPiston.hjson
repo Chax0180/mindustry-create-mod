@@ -26,3 +26,22 @@ health:100
   ]
 research:boiler
 category: power
+
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -base
+    }
+    {
+      type: DrawRegion
+      suffix: -spinner
+      spinSprite: true
+      rotateSpeed: 2
+    }
+    {
+      type: DrawDefault
+    }
+  ]
+}
