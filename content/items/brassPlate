@@ -1,0 +1,11 @@
+name: Brass Plate
+description: A flattened plate of brass.
+hardness: 1
+alwaysUnlocked: true
+color: b1e9c0
+research: brass
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
