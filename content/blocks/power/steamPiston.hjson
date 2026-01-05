@@ -20,7 +20,7 @@ destructible:true
   breakable:true
   
 health:100
-  ambientSound:steam
+  ambientSound:steamEngine
   requirements:[
   copper/4
   andesite-alloy/2
