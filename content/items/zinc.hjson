@@ -1,0 +1,12 @@
+name: Zinc
+description: A common, alloyable metal. Soft, not suitable for structures on its own.
+hardness: 1
+alwaysUnlocked: true
+color: b1e9c0
+research: copper
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
+details: The second metal discovered on Aurelius. Contrary to copper, Zinc is extremely common in lifeforms and is not toxic.
