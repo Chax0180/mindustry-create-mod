@@ -21,7 +21,7 @@ health:100
   ambientSound:steamEngine
   abientSoundVolume: 0.8
   requirements:[
-  andesite-alloy/8
+  andesiteAlloy/8
   kineticCopper/24
   glass/4
   precisionController/1
