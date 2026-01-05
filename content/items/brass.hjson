@@ -2,7 +2,7 @@ name: Brass
 description: An alloy of copper and zinc. Useful for a variety purposes, such as piping, hardware, and bullet casings.
 hardness: 1
 alwaysUnlocked: true
-color: b1e9c0
+color: ffec93
 research: copper
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0
