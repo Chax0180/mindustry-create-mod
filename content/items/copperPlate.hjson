@@ -2,7 +2,7 @@ name: Copper Plate
 description: A flattened plate of copper.
 hardness: 1
 alwaysUnlocked: true
-color: 
+color: c26b4c
 research: kineticCopper
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0
