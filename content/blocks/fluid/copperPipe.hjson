@@ -6,7 +6,7 @@ research: mechanicalPump
 requirements: [
   copper/2
 ]
-health: 60
+health: 120
 leaks: true
 botColor: 5e2d1e
 underBullets: true
