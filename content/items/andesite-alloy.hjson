@@ -1,0 +1,11 @@
+name: Andesite Alloy
+description: The most common alloy of andesite. Made with zinc.
+hardness: 2
+alwaysUnlocked: true
+color: a5a797
+research: andesite
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
