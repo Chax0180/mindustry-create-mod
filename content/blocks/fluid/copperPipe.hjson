@@ -8,5 +8,5 @@ requirements: [
 ]
 health: 60
 leaks: true
-botColor: 000000
+botColor: 000000ff
 underBullets: true
