@@ -2,7 +2,7 @@ name: Precision Controller
 description: An advanced, configurable mechanism designed for producing consistent, precise movements.
 hardness: 2
 alwaysUnlocked: true
-color: a5a797
+
 research: incompletePC
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0.1
