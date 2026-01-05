@@ -1,0 +1,14 @@
+type: Conduit
+name: Windowed Copper Pipe
+description: Moves fluids. Has a viewport to make its contents visible.
+category: liquid
+research: copperPipe
+requirements: [
+  copper/2
+  glass/1
+  andesite-alloy/1
+]
+health: 80
+leaks: true
+botColor: 5e2d1e
+underBullets: true
