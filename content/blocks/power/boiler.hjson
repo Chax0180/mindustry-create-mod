@@ -35,10 +35,14 @@ drawer: {
       suffix: -base
     }
     {
-      type: DrawRegion
-      suffix: -spinner
-      spinSprite: true
-      rotateSpeed: 2
+      type: DrawLiquidTile
+      padding: 3
+      drawLiquid: water
+    }
+    {
+      type: DrawLiquidTile
+      padding: 3
+      drawLiquid: steam
     }
     {
       type: DrawDefault
