@@ -24,7 +24,7 @@ health:100
   andesite-alloy/8
   kineticCopper/24
   glass/4
-  precision-mechanism/1
+  precisionController/1
   
   ]
 research:boiler
