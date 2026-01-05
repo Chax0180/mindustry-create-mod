@@ -2,7 +2,7 @@ name: Incomplete Precision Controller
 description: An empty shell of a Precision Controller, awaiting gears, springs, and other parts.
 hardness: 1
 alwaysUnlocked: true
-color: a5a797
+color: bd7949
 research: brassPlate
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0
