@@ -9,7 +9,7 @@ liquids: [
 steam/0.05
 ]
 }
-powerProduction: 512
+powerProduction: 1
 description: Turns steam into kinetic energy.
   
 destructible:true
