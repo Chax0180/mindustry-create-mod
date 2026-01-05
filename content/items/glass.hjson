@@ -2,7 +2,7 @@ name: Glass
 description: A somewhat fragile, transparent silicate material.
 hardness: 0.2
 alwaysUnlocked: true
-color: a5a797
+color: a8d0d9
 research: sand
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0
