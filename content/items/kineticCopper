@@ -1,0 +1,12 @@
+name: Copper
+description: A common, conductive metal used for wiring and waterworks.
+hardness: 1
+alwaysUnlocked: true
+color: c26b4c
+research: core-depot
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
+details: "Uniquely antimicrobial. The first metal discovered on Aurelius. (Added by Kinetic.)"
