@@ -7,9 +7,7 @@ type: HeatCrafter
   consumes:{
 water/0.2
 }
-outputLiquid:[
-steam/0.2
-]
+outputLiquid: steam/0.2
 
 description: Turns water into steam using heat.
   
