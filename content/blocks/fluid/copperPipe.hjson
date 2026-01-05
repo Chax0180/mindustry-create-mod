@@ -8,6 +8,5 @@ requirements: [
 ]
 health: 60
 leaks: true
-junctionReplacement: copperPipeJunction
-bridgeReplacement: copperPipeBridge
+
 underBullets: true
