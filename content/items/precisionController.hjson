@@ -3,7 +3,7 @@ description: An advanced, configurable mechanism designed for producing consiste
 hardness: 2
 alwaysUnlocked: true
 color: a5a797
-research: brassSpring
+research: incompletePC
 hiddenOnPlanets: [erekir, serpulo]
 explosiveness:0.1
 flammability:0
