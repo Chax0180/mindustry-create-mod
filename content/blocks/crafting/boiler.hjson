@@ -24,7 +24,7 @@ health:400
   copper/48
   ]
 research:core-depot
-category: power
+category: crafting
 
 drawer: {
   type: DrawMulti
