@@ -21,8 +21,11 @@ health:100
   ambientSound:steamEngine
   abientSoundVolume: 0.8
   requirements:[
-  copper/4
-  andesite-alloy/2
+  andesite-alloy/8
+  kineticCopper/24
+  glass/4
+  precision-mechanism/1
+  
   ]
 research:boiler
 category: power
