@@ -1,0 +1,12 @@
+name: Precision Controller
+description: An advanced, configurable mechanism designed for producing consistent, precise movements.
+hardness: 2
+alwaysUnlocked: true
+color: a5a797
+research: brassSpring
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0.1
+flammability:0
+charge:0
+radioactivity:0
+details: Tightly bound and precise, both in creation and output. When broken, the gears and springs pop apart.
