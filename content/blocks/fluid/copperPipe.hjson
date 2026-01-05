@@ -1,0 +1,13 @@
+type: Conduit
+name: Copper Pipe
+description: Moves fluids.
+category: liquid
+research: mechanicalPump
+requirements: [
+  copper/2
+]
+health: 60
+leaks: true
+junctionReplacement: copperPipeJunction
+bridgeReplacement: copperPipeBridge
+underBullets: true
