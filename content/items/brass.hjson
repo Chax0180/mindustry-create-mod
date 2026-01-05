@@ -1,0 +1,12 @@
+name: Brass
+description: An alloy of copper and zinc. Useful for a variety purposes, such as piping, hardware, and bullet casings.
+hardness: 1
+alwaysUnlocked: true
+color: b1e9c0
+research: copper
+hiddenOnPlanets: [erekir, serpulo]
+explosiveness:0
+flammability:0
+charge:0
+radioactivity:0
+details: Brass was born on Aurelius from a search for useful alloys, which was a success after the discovery of brass, due to its versatility and low cost.
