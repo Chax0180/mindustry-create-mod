@@ -12,6 +12,7 @@ wood/4
 requirements: [
   andesite/4
   andesite-alloy/16
+  kineticCopper/8
 ]
 powerProduction: 0
 heatOutput: 2
