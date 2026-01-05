@@ -4,6 +4,7 @@ type: HeatCrafter
   itemCapacity: 10
   heatRequirement: 4
   maxEfficiency: 2
+  size: 2
   consumes:{
 liquids: [
 water/0.2
