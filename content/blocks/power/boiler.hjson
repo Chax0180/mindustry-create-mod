@@ -5,7 +5,9 @@ type: HeatCrafter
   heatRequirement: 4
   maxEfficiency: 2
   consumes:{
+liquids: [
 water/0.2
+]
 }
 outputLiquid: steam/0.2
 
