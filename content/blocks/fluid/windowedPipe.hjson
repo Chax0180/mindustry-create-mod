@@ -1,6 +1,6 @@
 type: Conduit
 name: Windowed Copper Pipe
-description: Moves fluids. Has a viewport to make its contents visible.
+description: Moves fluids. Has a viewport to make its contents visible. Doesn't accept non-pipe inputs from the sides.
 category: liquid
 research: copperPipe
 requirements: [
@@ -8,6 +8,7 @@ requirements: [
   kineticCopper/1
   glass/1
 ]
+isolated: true
 health: 80
 leaks: true
 botColor: 5e2d1e
