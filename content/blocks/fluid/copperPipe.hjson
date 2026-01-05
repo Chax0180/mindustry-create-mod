@@ -5,6 +5,7 @@ category: liquid
 research: mechanicalPump
 requirements: [
   copper/2
+  andesite/1
 ]
 health: 120
 leaks: true
