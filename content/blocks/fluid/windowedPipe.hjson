@@ -4,9 +4,9 @@ description: Moves fluids. Has a viewport to make its contents visible.
 category: liquid
 research: copperPipe
 requirements: [
-  copper/2
+  copper/1
   glass/1
-  andesite-alloy/1
+  andesite/1
 ]
 health: 80
 leaks: true
