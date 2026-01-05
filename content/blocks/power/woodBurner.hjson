@@ -1,0 +1,26 @@
+type: HeaterGenerator
+name: Crude Burner
+description: Produces heat by burning wood.
+size: 2
+category: crafting
+research: core-depot
+consumes: {
+items: [
+wood/4
+]
+}  
+requirements: [
+  andesite/4
+  andesite-alloy/16
+]
+powerProduction: 0
+heatOutput: 2
+research: core-depot
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawDefault
+    }
+  ]
+}
