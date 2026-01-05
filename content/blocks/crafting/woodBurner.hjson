@@ -20,6 +20,13 @@ drawer: {
   type: DrawMulti
   drawers: [
     {
+      type: DrawRegion
+      suffix: -base
+    }
+    {
+      type: DrawCrucibleFlame
+    }
+    {
       type: DrawDefault
     }
     {
