@@ -16,7 +16,6 @@ consumes: {
 }
 requirements:[
 copper/24
-kineticCopper/24
 ]
 category: crafting
 drawer: {
