@@ -1,0 +1,17 @@
+type: GenericCrafter
+name: Kinetic Exchanger
+description: Converts vanilla copper into copper II.
+size: 2
+scaledHealth: 60
+squareSprite: false
+craftEffect: smeltsmoke
+outputItems: [
+  01a-06-item-lodestone/1
+  sand/1
+]
+consumes: {
+  items: [
+    01a-01-item-ferrinite/1
+    01a-04-item-hardened-sand/1
+  ]
+}
