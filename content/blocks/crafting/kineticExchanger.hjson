@@ -1,5 +1,5 @@
-type: GenericCrafter
 name: Kinetic Exchanger
+type: GenericCrafter
 description: Converts vanilla copper into Kinetic's copper.
 size: 2
 health: 120
