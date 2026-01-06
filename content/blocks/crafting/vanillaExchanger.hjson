@@ -15,10 +15,8 @@ consumes: {
   ]
 }
 requirements:[
-copper/1
-kineticCopper/1
-graphite/12
-andesiteAlloy/12
+copper/24
+kineticCopper/24
 ]
 category: crafting
 drawer: {
