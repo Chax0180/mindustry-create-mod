@@ -4,7 +4,7 @@ description: A bridge for pipes to cross walls and obstacles.
 fadeIn: false
 moveArrows: true
 arrowSpacing: 6
-range: 5
+range: 6
 hasPower: false
 category: liquid
 research: copperPipeJunction
