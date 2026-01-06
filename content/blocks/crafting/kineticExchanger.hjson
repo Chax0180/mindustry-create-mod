@@ -4,6 +4,7 @@ description: Converts vanilla copper into kinetic's copper.
 size: 2
 health: 120
 craftEffect: smeltsmoke
+research: core-shard
 outputItems: [
   kineticCopper/1
 ]
@@ -19,7 +20,6 @@ graphite/12
 andesiteAlloy/12
 ]
 category: crafting
-craftTime: 30
 drawer: {
   type: DrawMulti
   drawers: [
