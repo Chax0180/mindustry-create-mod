@@ -2,6 +2,7 @@ type: Conduit
 name: Copper Pipe
 description: Moves fluids.
 category: liquid
+solid: false
 research: mechanicalPump
 requirements: [
   andesite/1
