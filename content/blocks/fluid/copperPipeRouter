@@ -1,0 +1,14 @@
+type: LiquidRouter
+name: Copper Pipe Router
+description: Distributes and stores fluids in 3 directions.
+size: 1
+underBullets: true
+health: 160
+liquidCapacity: 300
+category: liquid
+squareSprite: false
+research: copperPipeJunction
+requirements: [
+  kineticCopper/16
+  glass/4
+]
