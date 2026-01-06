@@ -1,0 +1,41 @@
+name: Vanilla Exchanger
+type: GenericCrafter
+description: Converts Kinetic's copper into vanilla copper.
+size: 2
+health: 120
+research: core-shard
+craftTime: 15
+
+outputItems: [
+  copper/1
+]
+consumes: {
+  items: [
+    kineticCopper/1
+  ]
+}
+requirements:[
+copper/1
+kineticCopper/1
+graphite/12
+andesiteAlloy/12
+]
+category: crafting
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -base
+    }
+    {
+      type: DrawRegion
+      suffix: -spinner
+      spinSprite: true
+      rotateSpeed: 6
+    }
+    {
+      type: DrawDefault
+    } 
+  ]
+}
