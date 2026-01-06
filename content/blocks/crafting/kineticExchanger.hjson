@@ -3,7 +3,6 @@ type: GenericCrafter
 description: Converts vanilla copper into Kinetic's copper.
 size: 2
 health: 120
-craftEffect: smeltsmoke
 research: core-shard
 craftTime: 15
 
