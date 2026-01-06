@@ -15,7 +15,7 @@ consumes: {
     copper/1
   ]
 }
-requires:[
+requirements:[
 copper/1
 kineticCopper/1
 graphite/12
