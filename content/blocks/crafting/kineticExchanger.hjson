@@ -5,6 +5,8 @@ size: 2
 health: 120
 craftEffect: smeltsmoke
 research: core-shard
+craftTime: 15
+
 outputItems: [
   kineticCopper/1
 ]
