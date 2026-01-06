@@ -3,7 +3,6 @@ name: Kinetic Exchanger
 description: Converts vanilla copper into kinetic's copper.
 size: 1
 health: 120
-squareSprite: false
 craftEffect: smeltsmoke
 outputItems: [
   kineticCopper/1
@@ -19,3 +18,5 @@ kineticCopper/1
 graphite/12
 andesiteAlloy/12
 ]
+category: crafting
+craftTime: 30
