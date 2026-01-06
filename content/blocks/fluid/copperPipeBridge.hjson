@@ -1,9 +1,10 @@
-type: LiquidBridge
+etype: LiquidBridge
 name: Copper Pipe Bridge
 description: A bridge for pipes to cross walls and obstacles.
 fadeIn: false
 moveArrows: true
 arrowSpacing: 10
+bridgeWidth: 8
 range: 6
 hasPower: false
 category: liquid
