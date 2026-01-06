@@ -1,6 +1,6 @@
 type: GenericCrafter
 name: Kinetic Exchanger
-description: Converts vanilla copper into kinetic's copper.
+description: Converts vanilla copper into Kinetic's copper.
 size: 2
 health: 120
 craftEffect: smeltsmoke
