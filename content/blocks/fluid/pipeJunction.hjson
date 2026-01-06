@@ -1,0 +1,10 @@
+type: LiquidJunction
+name: Pipe Junction
+description: A junction that allows two pipes to cross without mixing.
+solid: false
+category: liquid
+squareSprite: false
+research: copperPipe
+requirements: [
+  kineticCopper/12
+]
