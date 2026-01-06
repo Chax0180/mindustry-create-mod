@@ -1,7 +1,7 @@
 type: GenericCrafter
 name: Kinetic Exchanger
 description: Converts vanilla copper into kinetic's copper.
-size: 1
+size: 2
 health: 120
 craftEffect: smeltsmoke
 outputItems: [
@@ -20,3 +20,21 @@ andesiteAlloy/12
 ]
 category: crafting
 craftTime: 30
+drawer: {
+  type: DrawMulti
+  drawers: [
+    {
+      type: DrawRegion
+      suffix: -bottom
+    }
+    {
+      type: DrawRegion
+      suffix: -spinner
+      spinSprite: true
+      rotateSpeed: 2.1
+    }
+    {
+      type: DrawDefault
+    } 
+  ]
+}
