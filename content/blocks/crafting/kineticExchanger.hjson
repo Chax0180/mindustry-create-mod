@@ -27,7 +27,7 @@ drawer: {
   drawers: [
     {
       type: DrawRegion
-      suffix: -bottom
+      suffix: -base
     }
     {
       type: DrawRegion
