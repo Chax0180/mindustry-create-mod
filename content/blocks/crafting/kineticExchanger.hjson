@@ -3,7 +3,7 @@ type: GenericCrafter
 description: Converts vanilla copper into Kinetic's copper.
 size: 2
 health: 120
-research: core-shard
+research: copper
 craftTime: 15
 
 outputItems: [
@@ -15,10 +15,8 @@ consumes: {
   ]
 }
 requirements:[
-copper/1
-kineticCopper/1
-graphite/12
-andesiteAlloy/12
+copper/24
+kineticCopper/24
 ]
 category: crafting
 drawer: {
