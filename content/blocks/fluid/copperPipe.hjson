@@ -12,3 +12,6 @@ health: 120
 leaks: true
 botColor: 5e2d1e
 underBullets: true
+
+junctionReplacement: copperPipeJunction
+bridgeReplacement: copperPipeBridge
