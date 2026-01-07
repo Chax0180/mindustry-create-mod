@@ -1,0 +1,11 @@
+type: StackConveyor
+name: Zinc Conveyor
+description: Moves items slowly. Can output in 3 different ways at its end.
+speed: 0.05
+itemCapacity: 1
+health: 60
+category: distribution
+research: core-depot
+requirements: [
+  zinc/2
+]
